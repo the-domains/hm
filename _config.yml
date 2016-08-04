@@ -16,5 +16,8 @@ navigation:
   - name: portfólio
     id: 4db409af-a21f-4871-80ec-4d8ce963455f
     type: content
+  - name: gráfico
+    id: 5c2cc3f4-99b4-47ab-9f0d-a63cd01b9647
+    type: content
 title: mapa tavira
 description: tavira lawyers
