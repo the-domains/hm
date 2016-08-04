@@ -5,8 +5,8 @@ description: >-
   ilustração bidimensional descontraída e de contraste.Uma empresa que entre
   projectos Agrícolas e Agro-industrais já capturou para Portugal mais de
   140milhões de euros em PDR 2020.
-dateModified: '2016-08-04T17:48:39.798Z'
-datePublished: '2016-08-04T17:48:40.640Z'
+dateModified: '2016-08-04T17:50:16.453Z'
+datePublished: '2016-08-04T17:50:17.070Z'
 title: ''
 author: []
 publisher: {}
