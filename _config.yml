@@ -12,6 +12,9 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.1997617760207504
 name: Hortelã Magenta
-navigation: []
+navigation:
+  - name: portfólio
+    id: 4db409af-a21f-4871-80ec-4d8ce963455f
+    type: content
 title: mapa tavira
 description: tavira lawyers
