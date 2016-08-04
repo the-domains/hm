@@ -19,5 +19,8 @@ navigation:
   - name: gráfico
     id: 5c2cc3f4-99b4-47ab-9f0d-a63cd01b9647
     type: content
+  - name: editorial
+    id: 3c05b7fa-500f-4f5c-bbe6-28779ccfb123
+    type: content
 title: mapa tavira
 description: tavira lawyers
