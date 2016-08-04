@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[HM]]></title>
-        <description><![CDATA[HM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[mapa tavira]]></title>
+        <description><![CDATA[mapa tavira]]></description>
+        <link>https://thegrid.ai/hm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 11:07:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 17:43:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hortelã Magenta // Design de Comunicação]]></title>
+            <description><![CDATA[<article><h1>Hortelã Magenta // Design de Comunicação</h1><p>Agência de Design e Comunicação. Identidade Corporativa, Design Editorial, Design Gráfico, Vídeo e Multimédia, Marketing Imobiliário, 3D, Estratégias de Comunicação.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa5a5652302a00716a56058852db9fed/noop.jpg?input=http%3A%2F%2Fwww.hortelamagenta.pt%2Fimg%2Fsiganosfb.jpg"></article>]]></description>
+            <link>http://www.hortelamagenta.pt/#page=16&amp;pp=1&amp;pid=245</link>
+            <guid isPermaLink="false">d95b6680-d3a1-44b7-875a-ed7855384eac</guid>
+            <pubDate>Thu, 04 Aug 2016 17:43:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photos of Various Food Dishes Flying Through the Air]]></title>
             <description><![CDATA[<article><h1>Photos of Various Food Dishes Flying Through the Air</h1><p>Camden, London-based commercial still life photographer Piotr Gregorczyk likes to play with food and gravity. One concept he has focused on for a number of recent projects is the idea of showing various food dishes flying through the air as they come together on a plate or in a bowl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea61b8e6e7eb14f53652b069cde3df0e37aa5826.jpg"></article>]]></description>
