@@ -1,4 +1,3 @@
-layout_spectrum: 0.1997617760207504
 typography_spectrum: 0.5477013390045613
 color:
   brandStrength: 0.0674711475148797
@@ -11,5 +10,7 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.1997617760207504
 name: HM
 title: mapa tavira
+description: tavira lawyers
