@@ -1,16 +1,4 @@
-title: Hortelã Magenta
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.5412186
 color:
   saturation: 0
   brandStrength: 0.0674711475148797
@@ -22,8 +10,10 @@ color:
     - '#01B0F0'
     - '#AEEE00'
   rhythmicContrast: 0.8476703
-typography_spectrum: 0.5412186
-description: design de comunicação
+layout_spectrum: 0.9641577
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf66807a-cc6c-4cbe-92f3-8910641b7f03.png
+name: Hortelã Magenta
 navigation:
   - name: portfólio
     id: 4db409af-a21f-4871-80ec-4d8ce963455f
@@ -37,5 +27,17 @@ navigation:
   - name: trabalho 1
     id: 61af48d2-788e-4a61-b65a-edf0c35a2667
     type: content
-layout_spectrum: 0.9641577
-name: Hortelã Magenta
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Hortelã Magenta
+description: design de comunicação
