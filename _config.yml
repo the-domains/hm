@@ -12,16 +12,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8251679895911366
+  saturation: 0
   brandStrength: 0.0674711475148797
-  rhythmicContrast: 0.8418450336903334
+  lightness: 1
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  lightness: 0.4383727321401238
+  rhythmicContrast: 0.8476703
 typography_spectrum: 0.5477013390045613
 description: design de comunicação
 navigation:
